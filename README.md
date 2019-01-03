@@ -14,3 +14,5 @@ cmp filename1 filename2 : compares two files, returning the first different byte
 tail i filename1 : will print the last i lines, otherwise will print last 10
 
 cat filename1 : will print contents of filename1
+
+Created for CS440, 2018
